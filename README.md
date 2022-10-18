@@ -3,7 +3,7 @@
 
 <blockquote>    
 <p>"After all, if we never tested our limits. We might assume we had some."</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Magneto, Reign of X v01</p>
+<p align="right">- Magneto, Reign of X v01&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 </blockquote>
 
 ## 🛠 &nbsp; Studying
